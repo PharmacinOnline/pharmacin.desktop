@@ -1,0 +1,12 @@
+electron-builder.yml
+/node_modules
+/dist
+/front
+/out
+/src
+index.js
+app.ts
+main.js
+tsconfig.json
+webpack.config.js
+/build
